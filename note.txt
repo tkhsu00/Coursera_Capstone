@@ -1,0 +1,2 @@
+zip_lat_lng.txt from https://gist.github.com/erichurst/7882666/
+2016_zip_code_income_TX.xls from https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2016-zip-code-data-soi
